@@ -1,7 +1,15 @@
-# Welcome to GBA Emulator
+# Welcome to GBAemu
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
+GBAemu is a free, online GBA emulator that was created years ago. There is 50+ roms to play.
 
-# GBA Emulator Website
+# GBAemu Website
 
 https://huxtabl8.github.io/gbaemu/
+
+# GBAjs Website
+
+https://huxtabl8.github.io/gbajs/
+
+###
+
+Notice: GBAjs and GBAemu are different. GBAjs lets you play your own roms, while GBAemu lets you play roms provided by huxtabl8.
