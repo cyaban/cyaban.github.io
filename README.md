@@ -10,6 +10,6 @@ https://huxtabl8.github.io/gbaemu/
 
 https://huxtabl8.github.io/gbajs/
 
-##
+## NOTICE!!!
 
-Notice: GBAjs and GBAemu are different. GBAjs lets you play your own roms, while GBAemu lets you play roms provided by huxtabl8.
+GBAjs and GBAemu are different. GBAjs lets you play your own roms, while GBAemu lets you play roms provided by huxtabl8.
