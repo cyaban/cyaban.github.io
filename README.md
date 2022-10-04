@@ -1,6 +1,6 @@
 # Welcome to GBAemu
 
-GBAemu is a free, online GBA emulator that was created years ago. There is 50+ roms to play.
+GBAemu is a free, online GBA emulator that was created years ago. There are 50+ roms to play.
 
 # GBAemu Website
 
